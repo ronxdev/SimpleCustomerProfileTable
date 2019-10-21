@@ -1,2 +1,2 @@
 # SimpleCustomerProfileTable
-Created and exported HTML & XML database displaying customer profiles with data using SQL
+Created and exported database as HTML & XML document - Database/Table displaying customer profiles with data using SQL
